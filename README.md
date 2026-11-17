@@ -1,3 +1,7 @@
+Streamlit Deployed App Link: https://wagon-number-detection-and-container-id-recognition.streamlit.app/
+
+Model Training Kaggle Notebook: https://www.kaggle.com/code/sasmitabiswal05/wagon-number-container-id-recognition
+
 # 🚆 WNIR — Automatic Wagon Number and Container ID Recognition System
 
 ## Overview
